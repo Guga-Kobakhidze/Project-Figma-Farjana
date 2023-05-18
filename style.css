@@ -132,8 +132,8 @@ body {
     #12badf 49.71%,
     #c5018e 84.62%
   );
-  -webkit-text-fill-color: text;
   background-clip: text;
+  -webkit-background-clip: text;
   color: transparent;
 }
 
@@ -189,8 +189,8 @@ body {
     #12badf 35.71%,
     #c5018e 59.62%
   );
-  -webkit-text-fill-color: text;
   background-clip: text;
+  -webkit-background-clip: text;
   color: transparent;
   margin-bottom: 25px;
 }
